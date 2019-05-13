@@ -12,6 +12,7 @@
     "proxy",
     "statistics"
   ],
+  "repository": "github:finteza/web-sdk-nodejs",
   "homepage": "https://www.finteza.com",
   "license": "BSD-3-Clause",
   "dependencies": {
