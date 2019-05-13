@@ -1,0 +1,14 @@
+{
+  "name": "finteza-sdk-example-proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "finteza-sdk": "file:../../"
+  }
+}

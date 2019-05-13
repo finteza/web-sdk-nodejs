@@ -1,0 +1,13 @@
+{
+  "name": "finteza-sdk-example-send-event",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+    "finteza-sdk": "file:../../"
+  }
+}
