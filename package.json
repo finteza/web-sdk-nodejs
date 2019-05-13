@@ -1,0 +1,23 @@
+{
+  "name": "finteza-sdk",
+  "version": "1.0.0",
+  "description": "The official sdk for sending events to Finteza servers and proxying analytical requests via the website.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "Finteza Ltd. <support@finteza.com>",
+  "keywords": [
+    "finteza",
+    "analytics",
+    "tracking",
+    "proxy",
+    "statistics"
+  ],
+  "homepage": "https://www.finteza.com",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "cookie": "^0.3.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1"
+  }
+}
